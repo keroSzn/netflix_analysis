@@ -28,7 +28,7 @@ This project explores a Netflix dataset using Python to uncover trends, insights
 ## Visualizations
 
 1. **Distribution of Content Types**  
-   ![Pie Chart](path/to/pie_chart_image)  
+   ![Pie Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p2.png)  
    Displays the percentage of Movies vs TV Shows.
 
 2. **Content Release Trend Over the Years**  
@@ -36,31 +36,31 @@ This project explores a Netflix dataset using Python to uncover trends, insights
    Highlights the number of titles released annually.
 
 3. **Top 10 Countries by Content Production**  
-   ![Bar Chart](path/to/top_countries_image)  
+   ![Bar Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p3.png)  
    Showcases countries with the highest number of titles.
 
 4. **Top 10 Genres**  
-   ![Bar Chart](path/to/top_genres_image)  
+   ![Bar Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p4.png)  
    Displays the most frequent genres.
 
 5. **Rating Distribution**  
-   ![Bar Chart](path/to/rating_distribution_image)  
+   ![Bar Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p5.png)  
    Visualizes the distribution of titles across different ratings.
 
 6. **Movie Duration Distribution**  
-   ![Histogram](path/to/movie_duration_image)  
+   ![Histogram](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p6.png)  
    Analyzes the length of movies in minutes.
 
 7. **TV Show Seasons Distribution**  
-   ![Histogram](path/to/tv_show_seasons_image)  
+   ![Histogram](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p7.png)  
    Examines the number of seasons for TV Shows.
 
 8. **Top 10 Directors**  
-   ![Bar Chart](path/to/top_directors_image)  
+   ![Bar Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p8.png)  
    Lists the most prolific directors in the dataset.
 
 9. **Top 10 Cast Members**  
-   ![Bar Chart](path/to/top_cast_image)  
+   ![Bar Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p9.png)  
    Highlights the most frequently appearing cast members.
 
 ---

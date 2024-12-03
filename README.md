@@ -32,7 +32,7 @@ This project explores a Netflix dataset using Python to uncover trends, insights
    Displays the percentage of Movies vs TV Shows.
 
 2. **Content Release Trend Over the Years**  
-   ![Bar Chart]([path/to/release_trend_image](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p1.png))  
+   ![Bar Chart](https://github.com/keroSzn/netflix_analysis/blob/main/outputs/p1.png)  
    Highlights the number of titles released annually.
 
 3. **Top 10 Countries by Content Production**  
